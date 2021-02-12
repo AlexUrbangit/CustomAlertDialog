@@ -1,6 +1,4 @@
-# radio_button_alert_dialog
-
-A new Flutter project.
+# Customize your Alert Dialog
 
 ## Getting Started
 
